@@ -1,1 +1,1 @@
-# Data-analytics
+# EDA-PowerBI
